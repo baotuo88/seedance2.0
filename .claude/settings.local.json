@@ -3,7 +3,8 @@
     "allow": [
       "Bash(grep -E \"\\\\.\\(ts|tsx|js|json\\)$\")",
       "Bash(git add:*)",
-      "Bash(git commit -m \"refactor: 优化认证、权限隔离和UI组件:*)"
+      "Bash(git commit -m \"refactor: 优化认证、权限隔离和UI组件:*)",
+      "Bash(git commit -m \"fix: 修复Docker配置和数据库迁移问题:*)"
     ]
   }
 }
