@@ -50,10 +50,6 @@ Seedance 2.0 Web 是一款面向内容创作者、设计师、营销人员的 AI
 
 
 
- 公众号文章：[2026年2月炸场！手把手教你Docker一键部署Seedance 2.0双模型Web应用](https://mp.weixin.qq.com/s/pJxVS84wYI7cBoHxNJ_F_w)
-
-​                        [Sora关闭后，字节Seedance 2.0全球铺路！批量生成视频从此无需等待](https://mp.weixin.qq.com/s/iRk2XOnz3VDHYWNj0p2BXg)
-
  项目体验地址 https://seedance2.duckcloud.fun/
 
 ![image-20260214150856225](https://mypicture-1258720957.cos.ap-nanjing.myqcloud.com/Obsidian/image-20260214150856225.png)
@@ -577,20 +573,11 @@ docker compose down
 
 欢迎加入技术交流群，分享使用心得和创作成果：
 
-![20260412124230_24_6](https://mypicture-1258720957.cos.ap-nanjing.myqcloud.com/Obsidian/20260412124230_24_6.jpg)
+![微信图片_20260413195228_3_441](https://mypicture-1258720957.cos.ap-nanjing.myqcloud.com/Obsidian/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260413195228_3_441.jpg)
 
 ## 作者联系
 
 - **微信**: laohaibao2025
-- **邮箱**: 75271002@qq.com
-
-## 打赏
-
-如果这个项目对你有帮助，欢迎请我喝杯咖啡 ☕
-
-**微信支付**
-
-![微信支付](https://mypicture-1258720957.cos.ap-nanjing.myqcloud.com/Obsidian/image-20250914152855543.png)
 
 ## 功能模版版本修订
 
